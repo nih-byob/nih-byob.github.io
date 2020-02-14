@@ -10,7 +10,7 @@ layout: null
   color: #fc3f6e;
 }
 
-#meeting-time a {
+#meeting-time > a {
   color: #fc3f6e;
 }
 
@@ -22,12 +22,12 @@ layout: null
 #schedule time {
   display: inline-block;
   width: 65px;
-  color: #2a4fbf;
+  color: #1f3a8c;
   font-weight: bold;
 }
 
 #schedule a {
-  color: #5881fc;
+  color: #274ab2;
 }
 
 #schedule a:nth-of-type(2) {
@@ -78,7 +78,7 @@ hr.small {
 }
 
 .main-content {
-  padding-top: 80px;
+  padding-top: 74px;
 }
 @media only screen and (min-width: 768px) {
   .main-content {
@@ -508,7 +508,7 @@ footer .theme-by {
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 27px;
+  font-size: 24px;
   line-height: 1.1;
   display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
