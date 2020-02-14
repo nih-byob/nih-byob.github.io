@@ -4,6 +4,30 @@ layout: null
 
 @import url("pygment_highlights.css");
 
+/* --- NIH-BYOB --- */
+#meeting-time {
+  text-align: center;
+  font-weight: bold;
+  color: #fc3f6e;
+}
+
+#schedule {
+  list-style-type: none;
+  line-height: 1.5;
+}
+
+#schedule time {
+  display: inline-block;
+  width: 50px;
+  padding-right: 25px;
+  color: #3f6efc;
+  font-weight: bold;
+}
+
+#schedule a {
+  color: #5881fc;
+}
+
 /* --- General --- */
 
 body {
