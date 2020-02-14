@@ -7,7 +7,10 @@ layout: null
 /* --- NIH-BYOB --- */
 #meeting-time {
   text-align: center;
-  font-weight: bold;
+  color: #fc3f6e;
+}
+
+#meeting-time a {
   color: #fc3f6e;
 }
 
@@ -18,14 +21,17 @@ layout: null
 
 #schedule time {
   display: inline-block;
-  width: 50px;
-  padding-right: 25px;
-  color: #3f6efc;
+  width: 65px;
+  color: #2a4fbf;
   font-weight: bold;
 }
 
 #schedule a {
   color: #5881fc;
+}
+
+#schedule a:nth-of-type(2) {
+  color: #58fc81;
 }
 
 /* --- General --- */
