@@ -22,16 +22,17 @@ layout: null
 #schedule time {
   display: inline-block;
   width: 65px;
-  color: #1f3a8c;
+  color: #2041a2;
+  font-family: verdana, bitstream vera sans, sans-serif;
   font-weight: bold;
 }
 
 #schedule a {
-  color: #274ab2;
+  color: ##5881fc;
 }
 
 #schedule a:nth-of-type(2) {
-  color: #58fc81;
+  color: #225413;
 }
 
 /* --- General --- */
@@ -553,7 +554,7 @@ footer .theme-by {
     padding: 150px 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 80px;
+    font-size: 72px;
   }
   .intro-header .post-heading h1 {
     font-size: 50px;

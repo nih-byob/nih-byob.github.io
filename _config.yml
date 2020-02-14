@@ -8,11 +8,11 @@ description: An informal community-driven meeting to discuss all things bioinfor
 
 # List of links in the navigation bar
 navbar-links:
-  # About: "about"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-      #Author's home: "http://deanattali.com"
+  # About: "about" 
+  Slack: "https://join.slack.com/t/nih-byob/signup"
+  # Resources:
+  #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+  #   - Learn markdown: "http://www.markdowntutorial.com/"
 
 # source: https://www.manmadediy.com/1956-how-to-make-8-bit-breaking-bad-perler-bead-pixel-art
 avatar: "/img/8bit_beaker_100px.png"
